@@ -106,5 +106,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ##Authors
 - Chad Calvert (https://github.com/calvert1212)
 ---
-
-*Note: This README is based on the ArrowMoveCam.cs component. The full project may contain additional features and functionality not covered in this documentation.*
